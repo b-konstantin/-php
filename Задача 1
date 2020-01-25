@@ -1,0 +1,2 @@
+$htmllab='ru';
+echo "$htmllab";
